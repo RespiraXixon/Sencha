@@ -1,0 +1,21 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "models": [
+            "OSMModel"
+        ],
+        "stores": [
+            "OSMStore"
+        ],
+        "views": [
+            "TabPanel"
+        ],
+        "name": "demo2"
+    },
+    "designerId": "application"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "demo2",
+    "settings": {},
+    "xdsVersion": "2.2.3",
+    "xdsBuild": 1044,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000503,
+    "framework": "touch23",
+    "topInstanceFileMap": {
+        "e39f3d11-d4cb-4583-9084-9974674948d8": {
+            "paths": [
+                "metadata/store/OSMStore",
+                "app/store/override/OSMStore.js",
+                "app/store/OSMStore.js"
+            ],
+            "className": "OSMStore"
+        },
+        "1cc8cfdb-d181-4d15-b07b-01a26bd37364": {
+            "paths": [
+                "metadata/model/OSMModel",
+                "app/model/override/OSMModel.js",
+                "app/model/OSMModel.js"
+            ],
+            "className": "OSMModel"
+        },
+        "bfda049e-7302-4f7f-ba05-97258475ca9a": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "0c6d9bb7-e020-4e9c-8f89-738d08d49805": {
+            "paths": [
+                "metadata/view/TabPanel",
+                "app/view/override/TabPanel.js",
+                "app/view/TabPanel.js"
+            ],
+            "className": "TabPanel"
+        },
+        "31e9142d-3d13-4268-a916-a96fe7734b84": {
+            "paths": [
+                "metadata/resource/GoogleMapsAPI1"
+            ],
+            "className": "GoogleMapsAPI1"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "0c6d9bb7-e020-4e9c-8f89-738d08d49805"
+        ],
+        "store": [
+            "e39f3d11-d4cb-4583-9084-9974674948d8"
+        ],
+        "controller": [],
+        "model": [
+            "1cc8cfdb-d181-4d15-b07b-01a26bd37364"
+        ],
+        "resource": [
+            "bfda049e-7302-4f7f-ba05-97258475ca9a",
+            "31e9142d-3d13-4268-a916-a96fe7734b84"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

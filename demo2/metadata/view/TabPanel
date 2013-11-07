@@ -1,0 +1,147 @@
+{
+    "type": "Ext.tab.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "TabPanel",
+        "designer|initialView": true
+    },
+    "designerId": "0c6d9bb7-e020-4e9c-8f89-738d08d49805",
+    "cn": [
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Ficheros",
+                "layout": "card"
+            },
+            "designerId": "bbd3d0b4-dc06-44a4-9027-85a8c0eb4241",
+            "cn": [
+                {
+                    "type": "Ext.dataview.DataView",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "ui": "",
+                        "loadingText": "Cargando...",
+                        "store": "OSMStore"
+                    },
+                    "designerId": "c59806d3-1769-4a94-8234-caaefb11862d",
+                    "cn": [
+                        {
+                            "type": "Ext.XTemplate",
+                            "reference": {
+                                "name": "itemTpl",
+                                "type": "object"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "implHandler": [
+                                    "<div>{display_name}<br>\r",
+                                    "     Coordenadas (lat,lon): {lat}, {lon}\r",
+                                    "</div>\r",
+                                    ""
+                                ],
+                                "designer|displayName": "itemTpl"
+                            },
+                            "designerId": "12785dea-e070-4fd7-9179-aa63251e05ac"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Mapa",
+                "ui": "",
+                "layout": "card"
+            },
+            "designerId": "8fcb7f81-7b5b-4917-b6b0-49db0bdbefbf",
+            "cn": [
+                {
+                    "type": "Ext.Map",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "itemId": "mymap2",
+                        "mapOptions": [
+                            "{\r",
+                            "    zoom: 9\r",
+                            "}"
+                        ],
+                        "useCurrentLocation": true
+                    },
+                    "designerId": "059ed26b-d1e5-4cc9-882a-fd3e5e906dfe",
+                    "cn": [
+                        {
+                            "type": "delegateeventbinding",
+                            "reference": {
+                                "name": "listeners",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "fn": "onMapMaprender",
+                                "implHandler": [
+                                    "//Obtengo el Store\r",
+                                    "var store = Ext.getStore(\"OSMStore\");\r",
+                                    "\r",
+                                    "//Cargo el store y luego lo recorro una vez cargado\r",
+                                    "store.load(function(){\r",
+                                    "\r",
+                                    "    store.each(function(registro) { \r",
+                                    "        //Para cada elemento del store\r",
+                                    "        //Creo una posición a partir de la latitud y la longitud            \r",
+                                    "        var posicion = new google.maps.LatLng(registro.get(\"lat\"),registro.get(\"lon\"));\r",
+                                    "        //Creo un marcador con la posición y todos los datos del registro\r",
+                                    "        var marker=new google.maps.Marker({\r",
+                                    "            position: posicion,\r",
+                                    "            pico: registro\r",
+                                    "        });\r",
+                                    "        //Hago el marcador seleccionable\r",
+                                    "        marker.setClickable(true);\r",
+                                    "        //Añado el evento on mouseup para que salga el popup\r",
+                                    "        google.maps.event.addListener(marker, 'mouseup', function() {\r",
+                                    "            var pico = this.pico;\r",
+                                    "            var content = '<span style=\"font-weight: bold\">'+ pico.get('display_name') + '</span>';\r",
+                                    "            if (!map.infoWindow) {\r",
+                                    "                map.infoWindow = new google.maps.InfoWindow(); //\r",
+                                    "            }\r",
+                                    "            map.infoWindow.setContent(content);\r",
+                                    "            map.infoWindow.open(gmap, this);\r",
+                                    "        });\r",
+                                    "        //Añado el marcador al mapa\r",
+                                    "        marker.setMap(gmap);\r",
+                                    "    });\r",
+                                    "});"
+                                ],
+                                "name": "maprender",
+                                "designer|targetType": "Ext.Map"
+                            },
+                            "designerId": "05135291-29a4-412f-80ce-dd22e0e26e58"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

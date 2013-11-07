@@ -1,0 +1,62 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "OSMModel"
+    },
+    "designerId": "1cc8cfdb-d181-4d15-b07b-01a26bd37364",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "osm_id"
+            },
+            "designerId": "72ad4a04-64e6-412a-ab9b-1f8f05cc265c"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "display_name"
+            },
+            "designerId": "9f1f475c-f604-4087-ae08-9473d02b0001"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "lat"
+            },
+            "designerId": "a42eaed8-6fc3-43ce-b2cb-fdc98ff48fcf"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "lon"
+            },
+            "designerId": "70290f8f-fc06-4ae7-8150-417d8e35511b"
+        }
+    ]
+}

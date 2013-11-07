@@ -1,0 +1,41 @@
+{
+    "type": "jsonpstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "autoLoad": true,
+        "model": "OSMModel",
+        "storeId": "OSMStore",
+        "designer|userClassName": "OSMStore"
+    },
+    "designerId": "e39f3d11-d4cb-4583-9084-9974674948d8",
+    "cn": [
+        {
+            "type": "Ext.data.proxy.JsonP",
+            "reference": {
+                "name": "proxy",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "url": "http://nominatim.openstreetmap.org/search?q=picos en+asturias&format=json",
+                "callbackKey": "json_callback"
+            },
+            "designerId": "511309dc-22a0-40bc-8ae7-e276fba1b2ee",
+            "cn": [
+                {
+                    "type": "Ext.data.reader.Json",
+                    "reference": {
+                        "name": "reader",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "14f967e0-ae1f-4ade-a066-55bc98240867"
+                }
+            ]
+        }
+    ]
+}
