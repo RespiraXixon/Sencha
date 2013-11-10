@@ -48,7 +48,6 @@ Ext.define('demo3.model.DirectorioModel', {
                 			if (value.content){
 			              		var coordenadas = value.content.split(" ");
 			              		localizacion=coordenadas[0]+","+coordenadas[1];
-                				console.log(coordenadas[0]+","+coordenadas[1]);
                 			}else{
                 				localizacion="No existe";
                 			}
@@ -78,6 +77,12 @@ Ext.define('demo3.model.DirectorioModel', {
                 name: "web"
             }
         ],
-         hasMany: {model: 'CategoriaModel', name: 'categorias'}
+         hasMany: [
+         			{
+         				model: 'demo3.model.CategoriaModel', 
+         				name: 'categorias', 
+         				associationKey: 'categorias.categoria'
+         			}
+         		 ]
     }
 });

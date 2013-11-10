@@ -9,26 +9,35 @@ Ext.define('demo3.view.Main', {
         tabBarPosition: 'bottom',
 
         items: [
-            {
-                title: 'Inicio',
-                iconCls: 'home',
-				layout: 'fit',
-                styleHtmlContent: true,
-                scrollable: true,
-				items: [
-                	{
-	                    docked: 'top',
-	                    xtype: 'titlebar',
-	                    title: 'Directorios'
-                	},
-                	{
-                		xtype: 'dataview',
-                		layout: 'fit',
-                		store: 'DirectoriosStore',
-                		itemTpl: '<div>Nombre {nombre} ------->Coordenadas (lat,lon): {localizacion}</div>'
-                	}
-                ]
-            }   
-        ]
+		            {
+		                title: 'Inicio',
+		                iconCls: 'home',
+		                layout:'fit',
+		                layoutOnTabChange: true,
+						items: [
+								{
+	                    			docked: 'top',
+	                    			layout: 'fit',
+	                    			xtype: 'titlebar',
+	                    			title: 'Directorios'
+				                },
+								{
+									xtype: 'container',
+		                			title: 'Ficheros',
+		                			layout: 'fit',
+		                			scrollable: true,
+		                			items: [
+				                				{
+				                					xtype: 'dataview',
+				                					store: 'DirectoriosStore',
+				                					itemTpl: '<div>Nombre {nombre} ------->Coordenadas (lat,lon): {localizacion} <br>'+
+						                				 		'<tpl for="categorias"><small>{content}</small><br /></tpl>'+
+				                				 			 '</div>'
+				                				}
+		                					]
+								}                			
+		                	]
+		            }   
+        	]
     }
 });
