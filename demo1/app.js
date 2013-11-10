@@ -51,7 +51,7 @@ Ext.application({
         // Initialize the main view
         Ext.getStore("OSMStore").load(function(){
         	console.log(Ext.getStore("OSMStore"));
-			Ext.Viewport.add(Ext.create('demo1.view.Main'));
+			Ext.Viewport.add(Ext.create('demo1.view.Main',{fullscreen:true}));
 		});
         
     },
