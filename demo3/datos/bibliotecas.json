@@ -1,0 +1,1939 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Lineas de autobuses urbanos",
+                    "id": 444,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros de transporte emtusa",
+                    "id": 512,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecaroces@gijon.es",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<br/>Sal&#243;n polivalente(con capacidad para 90 personas), Fonoteca e Informaci&#243;n, asesoramiento y recursos para las asociaciones y colectivos del barrio. Biblioteca: Sala de lectura, Secci&#243;n infantil y juvenil, Secci&#243;n adultos, Prensa y revistas, Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd, Informaci&#243;n bibliogr&#225;fica y de referencia, <br/>Pr&#233;stamo interbibliotecario y Cat&#225;logo colectivo. Red Municipal. Mediateca (4 Puestos): Acceso gratuito a Internet y Cursos de informaci&#243;n digital.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda.&#160;Salvador Allende, 13",
+                {
+                    "content": "Avda.&#160;Salvador Allende, 13",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2011-08-24 10:54:17 +0200",
+            "horario": "<p>Lunes a viernes de 9.00 a 14.00 h y de 16.00 a 20.00 h<\/p>",
+            "identificador": 6869,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.518957 -5.683378",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Cultura de Roces Alfonso Camin (Biblioteca de Roces)",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/6869-centro-de-cultura-de-roces-alfonso-camin-biblioteca-de-roces",
+            "telefono": {
+                "content": "985 181 692",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Cajeros Ciudadanos,Edificios Municipales,Servicios Municipales,Mediatecas,Zona Wifi,Bibliotecas,Lineas de autobuses urbanos,Cajeros de transporte emtusa,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Transporte",
+            "url": "http://www.gijon.es/directorios/show/6869-centro-de-cultura-de-roces-alfonso-camin-biblioteca-de-roces",
+            "web": "http://www.gijon.es\nhttp://www.bibliotecaspublicas.es/redgijon/index.jsp"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros de transporte emtusa",
+                    "id": 512,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacontrueces@gijon.es",
+            "descripcion": {
+                "content": "<p><strong>Biblioteca:<\/strong> Sala de lectura. Secci&#243;n adultos (18 puestos). Prensa y revistas (18 puestos). Secci&#243;n infantil y juvenil (18 puestos). Bebeteca. Secci&#243;n Asturiana. Centros de inter&#233;s: C&#243;mic. Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. Pr&#233;stamo interbibliotecario. Informaci&#243;n bibliogr&#225;fica y de referencia. Actividades de animaci&#243;n a la lectura: Beb&#233; cuentos, La hora de los cuentos, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares. Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. Consulta Red Municipal de Bibliotecas<\/p>\r\n<p><strong>Mediateca:<\/strong> 13 puestos. Acceso gratuito a internet y cursos de formaci&#243;n digital<\/p>\r\n<p>2 <strong>aulas <\/strong>polivalentes.&#160;Informaci&#243;n, asesoramiento y recursos para las asociaciones y colectivos del barrio.&#160; <\/p>\r\n<p><strong>Cajero ciudadano<\/strong><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Rio Nal&#243;n, 2",
+                {
+                    "content": "C/ Rio Nal&#243;n, 2",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-03-09 10:50:52 +0100",
+            "horario": "Lunes a viernes de 9.00 a 20.00 h",
+            "identificador": 6868,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521928 -5.664131",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Municipal de Contrueces (Biblioteca de Contrueces)",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/6868-centro-municipal-de-contrueces-biblioteca-de-contrueces",
+            "telefono": {
+                "content": "985 185 114",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Cajeros Ciudadanos,Edificios Municipales,Servicios Municipales,Mediatecas,Zona Wifi,Bibliotecas,Sala de Exposiciones,Cajeros de transporte emtusa,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Transporte",
+            "url": "http://www.gijon.es/directorios/show/6868-centro-municipal-de-contrueces-biblioteca-de-contrueces",
+            "web": "http://www.gijon.es\nhttp://www.bibliotecaspublicas.es/redgijon/index.jsp"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Servicio Atenci&#243;n al Ciudadano",
+                    "id": 97,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Sociales",
+                    "id": 99,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ludotecas",
+                    "id": 390,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatro",
+                    "id": 190,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Otros Espacios Deportivos",
+                    "id": 397,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pabellones",
+                    "id": 398,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Piscinas Municipales",
+                    "id": 399,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pistas Polideportivas",
+                    "id": 400,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aparcamientos",
+                    "id": 439,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Establecimientos de Recarga del Monedero Transporte",
+                    "id": 440,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Lineas de autobuses urbanos",
+                    "id": 444,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Museos y salas de exposiciones",
+                    "id": 931,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros culturales",
+                    "id": 932,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatros",
+                    "id": 938,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aseos p&#250;blicos",
+                    "id": 947,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Deporte",
+                    "id": 192,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "cmillano@gijon.es",
+            "descripcion": {
+                "content": "<p>Es el equipamiento m&#225;s moderno de la red de centros integrados. Fue inaugurado en el a&#241;o 2007 tras seguir, en su dise&#241;o, las pautas sobre equipamientos de proximidad publicadas en los estudios de la fundaci&#243;n Kaleidos.Red, de la que le ayuntamiento de Gij&#243;n fue patrono fundador. Se situa en una&#160;&#225;rea de&#160;reciente crecimiento y reforma urbana y atiende a una extensa zona muy poblada con los&#160;recursos m&#225;s modernos, por ejemplo una gran ludoteca. Aunque ofrece servicios deportivos en su gran sala polivalente, no tiene una zona deportiva propiamente dicha pues, al otro lado de la calle, comparte espacio con&#160;una&#160;de las zona mejor&#160;equipadas, en&#160;instalaciones deportivas, de Gij&#243;n.<\/p><p>Dispone de: oficina de atenci&#243;n al ciudadano, Servicios Sociales, concejal&#237;a de distrito, sal&#243;n de actos, sala de exposiciones, ludoteca,&#160;sala polivalente, aulas, taller de cocina, sala de estudio (120 puestos), biblioteca, mediateca y cajero ciudadano.<\/p><p><img src=\"/data/images/f0/f4/42473/700x333_v1_ElLlanoPG.JPG\" alt=\"Fachada centro de El Llano\" class=\"nicedit_sin-alinear magnify\" width=\"700\" height=\"333\" width=\"700\" height=\"333\"/><br/><\/p><p><br/><\/p><p style=\"font-weight: bold;\"><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\">Espacios en el centro municipal integrado de El Llano (ver espacios).<\/a><br/><\/p><p><\/p><table><thead><tr><th style=\"text-align: center;\">Espacio<br/><\/th><th style=\"text-align: center;\">Puestos y aforo<br/><\/th><\/tr><\/thead><tbody><tr><td>Sal&#243;n de Actos<br/><\/td><td style=\"text-align: right;\">156<br/><\/td><\/tr><tr><td>Aulas 1 y 2<br/><\/td><td style=\"text-align: right;\">18<br/><\/td><\/tr><tr><td>Aulas 3 y 4<br/><\/td><td style=\"text-align: right;\">36<br/><\/td><\/tr><tr><td>Aula de cocina<br/><\/td><td style=\"text-align: right;\">16<br/><\/td><\/tr><tr><td>Sala Polivalente<br/><\/td><td style=\"text-align: right;\">350 m2<br/><\/td><\/tr><tr><td>Sala de estudio<br/><\/td><td style=\"text-align: right;\">120<br/><\/td><\/tr><tr><td>Biblioteca<br/><\/td><td style=\"text-align: right;\">Adultos:43<br/>Infantil:12<br/>Lectura de prensa:24<br/><\/td><\/tr><tr><td>Mediateca<br/><\/td><td style=\"text-align: right;\">16<br/><\/td><\/tr><tr><td>Sala de exposiciones <br/>(Los patios interiores est&#225;n <br/>habilitados para exponer)<br/><\/td><td style=\"text-align: right;\">21 metros lineales<br/><\/td><\/tr><tr><td>Sala de reuniones (1 y 2)<br/><\/td><td style=\"text-align: right;\">10 y 14<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Ludoteca<br/><\/td><td style=\"vertical-align: top; text-align: right;\">40<br/><\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle R&#237;o de Oro, 37",
+                {
+                    "content": "Calle R&#237;o de Oro, 37",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 185 244",
+            "fecha-actualizacion": "2013-09-25 14:16:50 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/42473/1776x846_v1_ElLlanoPG.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a S&#225;bado de 8.00 a 22.00 horas. Domingos de 8.00 a 15.00 horas. Cajero: 24h",
+            "identificador": 3443,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Centro Municipal Integrado de El Llano",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3443-centro-municipal-integrado-de-el-llano",
+            "telefono": {
+                "content": "985 185 240",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Servicio Atenci&#243;n al Ciudadano,Edificios Municipales,Cajeros Ciudadanos,Servicios Municipales,Servicios Sociales,Mediatecas,Zona Wifi,Ludotecas,Bibliotecas,Teatro,Sala de Exposiciones,Otros Espacios Deportivos,Pabellones,Piscinas Municipales,Pistas Polideportivas,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Museos y salas de exposiciones,Centros culturales,Teatros,Aseos p&#250;blicos,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Deporte,Transporte,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3443-centro-municipal-integrado-de-el-llano",
+            "web": "http://www.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Educaci&#243;n",
+                    "id": 14,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacamocha@gijon.es",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "c/ Charles Chaplin, s/n &#160; C.P. 33350",
+                {
+                    "content": "C/Charles Chaplin, s/n. - 33350 - c/ Charles Chaplin, s/n &#160; C.P. 33350",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-05-10 09:19:12 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/31641/267x200_v1_B.Camochaext200.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "De 9:00 a 20:00h. Julio y agosto de 9.00 a 15.00 h",
+            "identificador": 1908,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.48751 -5.6516",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal de Vega - La Camocha",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1908-biblioteca-municipal-de-vega-la-camocha",
+            "telefono": {
+                "content": "985 18 17 92",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Administraci&#243;n,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/1908-biblioteca-municipal-de-vega-la-camocha",
+            "web": "http://www.bibliotecaspublicas.es/redgijon/index.jsp"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "<a title=\"Ir a bibliotecapoligono@gijon.es \" href=\"http://bibliotecapoligono@gijon.es\">bibliotecapoligono@gijon.es<\/a>",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como: \r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. <br/>\r\n<\/li><li>Secci&#243;n infantil y juvenil. <br/>\r\n<\/li><li>Bebeteca. Secci&#243;n Asturiana. <br/>\r\n<\/li><li>Centros de inter&#233;s: Inform&#225;tica y Novela por temas. <br/>\r\n<\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. <br/>\r\n<\/li><li>Prensa y revistas. <br/>\r\n<\/li><li>Pr&#233;stamo interbibliotecario. <br/>\r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. <br/>\r\n<\/li><li>Actividades de animaci&#243;n a la lectura: Beb&#233; cuentos, La hora de los cuentos, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares (cita previa concertada). <br/>\r\n<\/li><li>1 sala de estudio. <br/>\r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. <br/>\r\n<\/li><li>Consulta Red Municipal de Bibliotecas. <br/>\r\n<\/li><li>Mediateca (8 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital.<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Puerto de Piedrafita, 3 C.P. 33207",
+                {
+                    "content": "Biblioteca del Pol&#237;gono de Pumar&#237;n - C/Puerto de Piedrafita, 3 - C/Puerto de Piedrafita, 3 C.P. 33207",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-10 12:56:20 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f7/7315/250x200_v1_Directoriobibliotecaspumarin.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 20.00 h. Julio y agosto 9.00 a 15.00 h",
+            "identificador": 1806,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530073 -5.67527",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal del Pol&#237;gono de Pumar&#237;n",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1806-biblioteca-municipal-del-poligono-de-pumarin",
+            "telefono": {
+                "content": "985 185 127",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Administraci&#243;n,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/1806-biblioteca-municipal-del-poligono-de-pumarin",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacentral@gijon.es",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Jovellanos, 21",
+                {
+                    "content": "Centro de Cultura Antiguo Instituto - C/Jovellanos, 21",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 350 709",
+            "fecha-actualizacion": "2011-05-05 22:24:22 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f7/7831/156x217_v1_servicios_centrales.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 14.00 hb",
+            "identificador": 1348,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Servicios Centrales de la Red Municipal de Bibliotecas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1348-servicios-centrales-de-la-red-municipal-de-bibliotecas",
+            "telefono": {
+                "content": "985 181 061   /062",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Servicios Municipales,Bibliotecas",
+            "url": "http://www.gijon.es/directorios/show/1348-servicios-centrales-de-la-red-municipal-de-bibliotecas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros de transporte emtusa",
+                    "id": 512,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicio Atenci&#243;n al Ciudadano",
+                    "id": 97,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Otras salas de congresos",
+                    "id": 1233,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Sociales",
+                    "id": 99,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ocio",
+                    "id": 392,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatro",
+                    "id": 190,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pabellones",
+                    "id": 398,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Lineas de autobuses urbanos",
+                    "id": 444,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aseos p&#250;blicos",
+                    "id": 947,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Deporte",
+                    "id": 192,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "cmiarena@gijon.es",
+            "descripcion": {
+                "content": "<p>&#160;Este centro&#160;integrado comparte los servicios del distrito&#160;Este con el centro municipal integrado de El Coto. As&#237; puede verse en&#160;su publicaci&#243;n mensual de servicios y actividades, la <em>Agenda<\/em>, compartida por los dos centros y distribuida, tanto en papel como a trav&#233;s de este&#160;sitio web.&#160;&#160;Con este edificio, el ayuntamiento llega a un&#160;territorio, muy cercano al centro, densamente poblado y con necesidad de todo tipo de servicios como los que se ofrecen desde un centro integrado. Es decir, su idea&#160;de reunir servicios y actividades coordinadas y cercanas a cualquier residencia. Todos los servicios descentralizados por el ayuntamiento en esta zona de Gij&#243;n est&#225;n aqu&#237; presentes, con las caracter&#237;sticas del edificio,&#160;presididos por la idea de la integraci&#243;n.&#160;Haciendo compatibles servicios generales con otros especializados, por ejemplo en pol&#237;ticas de igualdad y Mujer.&#160;&#160;Es decir, un servicio hecho de servicios diferentes, que se prestan como uno s&#243;lo para que el usuario elija, seg&#250;n su gusto o necesidades. <\/p><p>Dispone de: oficina de atenci&#243;n al ciudadano, Oficina municipal de pol&#237;ticas de igualdad,&#160;Servicios Sociales, concejal&#237;a de distrito,&#160;biblioteca, mediateca (16 puestos), cajero ciudadano, sala de exposiciones, sal&#243;n de actos, aulas&#160;y salas polivalentes. Est&#225; pr&#243;ximo al pabell&#243;n de deportes de La Arena.<\/p><p><img src=\"/data/images/f0/f4/42483/767x500_v1_CENTROARENA%28exterior%29.JPG\" alt=\"arena\" class=\"nicedit_sin-alinear magnify\" width=\"767\" height=\"500\" width=\"767\" height=\"500\"/><br/><\/p><p><br/><\/p><h3><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\">Espacios del Centro Municipal Integrado de L'Arena (ver espacios).<\/a><br/><\/h3><br/><table><thead><tr><th style=\"text-align: center;\">Espacio<br/><\/th><th style=\"text-align: center;\">Puestos y Aforo<br/><\/th><\/tr><\/thead><tbody><tr><td>Sal&#243;n de actos<br/><\/td><td style=\"text-align: right;\">192<\/td><\/tr><tr><td>Aulas 1 y 3<br/><\/td><td style=\"text-align: right;\">25<br/><\/td><\/tr><tr><td>Aulas 4 y 5<br/><\/td><td style=\"text-align: right;\">29<br/><\/td><\/tr><tr><td>Aula 2<br/><\/td><td style=\"text-align: right;\">20<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 6<br/><\/td><td style=\"vertical-align: top; text-align: right;\">45<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Biblioteca<br/><\/td><td style=\"vertical-align: top; text-align: right;\">Adultos: 144<br/>Infantiles: 37<br/>Lectura de prensa: 24<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Mediateca<br/><\/td><td style=\"vertical-align: top; text-align: right;\">16<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala de Exposiciones<br/><\/td><td style=\"vertical-align: top; text-align: right;\">182 m2<br/><\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Canga Arg&#252;elles, 16- 18",
+                {
+                    "content": "C/Canga Arg&#252;elles, 16- 18",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 181 618",
+            "fecha-actualizacion": "2013-09-25 14:14:15 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6420/250x188_v1_Directoriobibliotecasarena.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a Viernes: 8:00-22:00h. Cajero: 24h.",
+            "identificador": 443,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539034 -5.650709",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Municipal Integrado de L'Arena",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/443-centro-municipal-integrado-de-l-arena",
+            "telefono": {
+                "content": "+34 985 181 620",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Sala de Exposiciones,Cajeros de transporte emtusa,Cajeros Ciudadanos,Edificios Municipales,Mediatecas,Zona Wifi,Servicio Atenci&#243;n al Ciudadano,Servicios Sociales,Ocio,Bibliotecas,Teatro,Pabellones,Lineas de autobuses urbanos,Aseos p&#250;blicos,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Deporte,Transporte,Turismo",
+            "url": "http://www.gijon.es/directorios/show/443-centro-municipal-integrado-de-l-arena",
+            "web": "http://www.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicio Atenci&#243;n al Ciudadano",
+                    "id": 97,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Otras salas de congresos",
+                    "id": 1233,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Sociales",
+                    "id": 99,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ocio",
+                    "id": 392,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Piscinas Municipales",
+                    "id": 399,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Asociaciones de Vecinos",
+                    "id": 419,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pictogr&#225;mas",
+                    "id": 517,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aparcamientos",
+                    "id": 439,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Establecimientos de Recarga del Monedero Transporte",
+                    "id": 440,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Lineas de autobuses urbanos",
+                    "id": 444,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Taxis",
+                    "id": 446,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios municipales",
+                    "id": 927,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Museos y salas de exposiciones",
+                    "id": 931,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros culturales",
+                    "id": 932,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aseos p&#250;blicos",
+                    "id": 947,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Deporte",
+                    "id": 192,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Participaci&#243;n Ciudadana",
+                    "id": 195,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "cmicoto@gijon.es",
+            "descripcion": {
+                "content": "Es el centro pionero de la red de centros integrados. Un edificio de servicios m&#250;ltiples, cabecera del distrito Este. Supone la presencia efectiva del ayuntamiento en ese territorio, con todos sus servicios y con sus nuevas estructuras y dotaciones. Su idea es la de reunir servicios y actividades coordinadas y cercanas a cualquier residencia. Todos los servicios descentralizados por el ayuntamiento en esta zona de Gij&#243;n est&#225;n aqu&#237; presentes presididos por la idea de la integraci&#243;n. Es decir, un servicio hecho de servicios diferentes, que se prestan como uno s&#243;lo para que el usuario elija, seg&#250;n su gusto o necesidades. <p>&#160;<\/p><p>Dispone de: oficina de atenci&#243;n al ciudadano, Servicios Sociales, Empleo, Patronato Deportivo Municipal, Servicio de Prevenci&#243;n y Salud Laboral, concejal&#237;a de distrito,&#160;biblioteca, mediateca (10 puestos), cajero ciudadano,&#160;sala de exposiciones, sal&#243;n de actos y&#160;salas polivalentes.<\/p><p><img src=\"/data/images/f0/f4/42475/298x400_v1_CentroCoto%28exteriorgenerallosa%29.JPG\" alt=\"Fachada El Coto\" class=\"image-izquierda magnify\" width=\"298\" height=\"400\" width=\"298\" height=\"400\"/><img src=\"/data/images/f0/f4/42476/300x400_v1_CentroCoto%28bibliotecainteriordesdepisosuperior%29.JPG\" alt=\"El coto interior\" class=\"image-derecha magnify\" width=\"300\" height=\"400\" width=\"300\" height=\"400\"/><br/><br/><\/p><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><br/><\/h3><h3><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\">Espacios del Centro Municipal Integrado de El Coto (ver espacios).<br/><\/a><\/h3><br/><table><thead><tr><th style=\"text-align: center;\">Espacio<br/><\/th><th style=\"text-align: center;\">Puestos y Aforo<br/><\/th><\/tr><\/thead><tbody><tr><td>Sal&#243;n de actos<br/><\/td><td style=\"text-align: right;\">207<br/><\/td><\/tr><tr><td>Sala Polivalente<br/><\/td><td style=\"text-align: right;\">166 &#243; 331<br/><\/td><\/tr><tr><td>Sala Paraninfo<br/><\/td><td style=\"text-align: right;\">84<br/><\/td><\/tr><tr><td>Aula 1<br/><\/td><td style=\"text-align: right;\">36<br/><\/td><\/tr><tr><td>Aula 2<br/><\/td><td style=\"text-align: right;\">44<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br/><\/td><td style=\"vertical-align: top; text-align: right;\">&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160; 52 <br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula auxiliar<br/><\/td><td style=\"vertical-align: top; text-align: right;\">6<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala de estudio<br/><\/td><td style=\"vertical-align: top; text-align: right;\">52<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Biblioteca<br/><\/td><td style=\"vertical-align: top; text-align: right;\">Adultos: 68<br/>Infantil:32<br/>Lectura prensa: 24<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Mediateca<br/><\/td><td style=\"vertical-align: top; text-align: right;\">10<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala de exposiciones<br/><\/td><td style=\"vertical-align: top; text-align: right;\">137 m2<br/><\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza de la Rep&#250;blica, s/n.",
+                {
+                    "content": "Centro Municipal Integrado El Coto - Plaza de la Rep&#250;blica, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 132 299",
+            "fecha-actualizacion": "2013-09-25 14:06:50 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6418/150x113_v1_DirectorioedificiosmunicipalesCMI-elcoto.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a Viernes: 8:00-22:00h. Cajero: 24h.",
+            "identificador": 441,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.533605 -5.649089",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Municipal Integrado de El Coto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/441-centro-municipal-integrado-de-el-coto",
+            "telefono": {
+                "content": "+34 985 181 701",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Sala de Exposiciones,Servicios Municipales,Cajeros Ciudadanos,Mediatecas,Zona Wifi,Servicio Atenci&#243;n al Ciudadano,Servicios Sociales,Ocio,Bibliotecas,Piscinas Municipales,Asociaciones de Vecinos,Pictogr&#225;mas,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Taxis,Servicios municipales,Museos y salas de exposiciones,Centros culturales,Aseos p&#250;blicos,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Deporte,Participaci&#243;n Ciudadana,Transporte,Turismo",
+            "url": "http://www.gijon.es/directorios/show/441-centro-municipal-integrado-de-el-coto",
+            "web": "http://www.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros de transporte emtusa",
+                    "id": 512,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecaroces@gijon.es",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como: <br/>\r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. \r\n<\/li><li>Secci&#243;n infantil y juvenil. \r\n<\/li><li>Biblioteca para padres y madres. \r\n<\/li><li>Bebeteca. \r\n<\/li><li>Secci&#243;n Asturiana. \r\n<\/li><li>Centros de inter&#233;s: F&#225;cil de leer, C&#243;mic, Viajes, Idiomas. \r\n<\/li><li>Prensa y revistas. Pr&#233;stamo de libros, discos, revistas, v&#237;deo y dvd. \r\n<\/li><li>Pr&#233;stamo interbibliotecario. Informaci&#243;n bibliogr&#225;fica y de referencia. \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: La hora de los cuentos. \r\n<\/li><li>Programa de formaci&#243;n en el uso de la biblioteca para escolares (Cita previa concertada). \r\n<\/li><li>Informaci&#243;n y asesoramiento sobre temas generales de inter&#233;s para la comunidad. \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. \r\n<\/li><li>Consulta Red Municipal de Bibliotecas . \r\n<\/li><li>Mediateca (6 puestos): Acceso gratuito a Internet <\/li><\/ul><span style=\"FONT-WEIGHT: bold\">C&#243;mo llegar: <\/span><br/>L&#237;neas de autobuses: L&#237;nea 15",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Salvador Allende, 13 C.P. 33211",
+                {
+                    "content": "Avda. Salvador Allende, 13 - Avda. Salvador Allende, 13 C.P. 33211",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-10 13:05:39 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/31603/267x200_v1_ExteriorRoces200.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 14.00 h y de 16.00 a 20.00 h. Julio y agosto de 9.00 a 15.00h",
+            "identificador": 438,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.51898 -5.683518",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal&#160;de Roces",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/438-biblioteca-municipal-de-roces",
+            "telefono": {
+                "content": "985 181 692",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Cajeros de transporte emtusa,Mediatecas,Zona Wifi,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Transporte",
+            "url": "http://www.gijon.es/directorios/show/438-biblioteca-municipal-de-roces",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros de Formaci&#243;n",
+                    "id": 401,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicio Atenci&#243;n al Ciudadano",
+                    "id": 97,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros de transporte emtusa",
+                    "id": 512,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Sociales",
+                    "id": 99,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatro",
+                    "id": 190,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Asociaciones de Vecinos",
+                    "id": 419,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aparcamientos",
+                    "id": 439,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Establecimientos de Recarga del Monedero Transporte",
+                    "id": 440,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Lineas de autobuses urbanos",
+                    "id": 444,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios municipales",
+                    "id": 927,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatros",
+                    "id": 938,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Educaci&#243;n",
+                    "id": 2,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Participaci&#243;n Ciudadana",
+                    "id": 195,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Transporte",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "cmicalzada@gijon.es",
+            "descripcion": {
+                "content": "<p>Este Centro&#160;ha sido el &#250;ltimo en incorporarse a la red de centros municipales integrados, pese a ser el equipamiento m&#225;s veterano. Su origen, muy lejano en el tiempo y en la historia del barrio de La Calzada, lo liga a iniciativas vecinales (que a&#250;n disponen de espacios en&#160;el Centro) y a usos municipales puramente culturales. Una reciente reforma lo ha convertido, desde el a&#241;o 2007, en un centro municipal integrado con el mismo rango de servicios y organizaci&#243;n que el resto.<\/p><p>Dispone de: oficina de atenci&#243;n al ciudadano, Servicios Sociales, sal&#243;n de actos (aforo de 280 personas), sala de exposiciones, biblioteca, mediateca (14 puestos), salas polivalentes, aulas, talleres especializados y cajero ciudadano.<\/p><p><img src=\"/data/images/f0/f4/42478/266x400_v1_LaCalzadaexterior.JPG\" alt=\"exterior la calzada\" class=\"image-izquierda magnify\" width=\"266\" height=\"400\" width=\"266\" height=\"400\"/><br/><\/p><p><span style=\"font-weight: bold;\"><img src=\"/data/images/f0/f4/42482/400x300_v1_Bibliotecainfantil.JPG\" alt=\"ateneop biblio\" class=\"image-derecha magnify\" width=\"400\" height=\"300\" width=\"400\" height=\"300\"/><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><br/><\/span><\/p><p><span style=\"font-weight: bold;\"><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\"><br/><\/a><\/span><\/p><p><span style=\"font-weight: bold;\"><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\">Espacios en el centro municipal integrado Ateneo de La Calzada (ver espacios).<\/a><\/span><br/><\/p><p><\/p><table><thead><tr><th style=\"text-align: center;\">Espacio<br/><\/th><th style=\"text-align: center;\">Puestos y Aforo<br/><\/th><\/tr><\/thead><tbody><tr><td>Sal&#243;n de actos<br/><\/td><td style=\"text-align: right;\">270<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala polivalente<br/><\/td><td style=\"vertical-align: top; text-align: right;\">60<\/td><\/tr><tr><td>Sala de exposiciones<br/><\/td><td style=\"text-align: right;\">130 m2<br/><\/td><\/tr><tr><td>Biblioteca<br/><\/td><td style=\"text-align: right;\">Adultos:28<br/>Infantil:39<br/>Lectura de prensa:27<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala de Estudio<br/>(dos espacios)<\/td><td style=\"vertical-align: top; text-align: right;\">45 y 30<\/td><\/tr><tr><td style=\"vertical-align: top;\">Mediateca<\/td><td style=\"vertical-align: top; text-align: right;\">16<\/td><\/tr><tr><td>Aula 2.2.<br/><\/td><td style=\"text-align: right;\">25<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 3.4.<\/td><td style=\"vertical-align: top; text-align: right;\">30<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 4.2.<\/td><td style=\"vertical-align: top; text-align: right;\">18<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 5.2<br/><\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 5.5&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br/><\/td><td style=\"vertical-align: top; text-align: right;\">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 40<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula 5.6<br/><\/td><td style=\"vertical-align: top; text-align: right;\">35<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula M&#250;sica&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br/><\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula Teatro<\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula fotograf&#237;a<\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Aula-Reuniones<\/td><td style=\"vertical-align: top; text-align: right;\">30<\/td><\/tr><tr><td style=\"vertical-align: top;\">Taller de Restauraci&#243;n<\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Taller de Dibujo<\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Taller Pintura<br/><\/td><td style=\"vertical-align: top; text-align: right;\">25<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Taller madera<br/><\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td style=\"vertical-align: top;\">Taller cocina<\/td><td style=\"vertical-align: top; text-align: right;\">25<\/td><\/tr><tr><td>Grupo monta&#241;a<br/><\/td><td style=\"text-align: right;\">18<br/><\/td><\/tr><tr><td>Grupo filat&#233;lico<br/><\/td><td style=\"text-align: right;\">18<br/><\/td><\/tr><tr><td>G. Industrial C.F.<br/><\/td><td style=\"text-align: right;\">18<br/><\/td><\/tr><tr><td>Casa Deporte<\/td><td style=\"text-align: right;\">25<\/td><\/tr><tr><td>Club Alfil<br/><\/td><td style=\"text-align: right;\">25<br/><\/td><\/tr><tr><td>Asociaci&#243;n de vecinos <br/>(dos espacios)<\/td><td style=\"text-align: right;\">30 y 18<\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Ateneo Obrero de La Calzada, 1",
+                {
+                    "content": "C/Ateneo Obrero de La Calzada, 1",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 301 198",
+            "fecha-actualizacion": "2013-09-25 14:19:56 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6115/250x333_v1_CM-ateneo.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a s&#225;bado, de 8:00 a 22:00 h.&#160;Cajero: 24h",
+            "identificador": 183,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539353 -5.694611",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Municipal Integrado Ateneo de La Calzada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/183-centro-municipal-integrado-ateneo-de-la-calzada",
+            "telefono": {
+                "content": "985 181 403",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Edificios Municipales,Centros de Formaci&#243;n,Cajeros Ciudadanos,Servicio Atenci&#243;n al Ciudadano,Servicios Municipales,Sala de Exposiciones,Mediatecas,Zona Wifi,Cajeros de transporte emtusa,Servicios Sociales,Bibliotecas,Teatro,Asociaciones de Vecinos,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Servicios municipales,Teatros,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Educaci&#243;n,Participaci&#243;n Ciudadana,Transporte,Turismo",
+            "url": "http://www.gijon.es/directorios/show/183-centro-municipal-integrado-ateneo-de-la-calzada",
+            "web": "http://www.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Hospital de Cabue&#241;es",
+                {
+                    "content": "Hospital de Cabue&#241;es - C/Los Prados, 395 - 33394 - Hospital de Cabue&#241;es",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2011-05-05 22:19:49 +0200",
+            "horario": "",
+            "identificador": 97,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.524442 -5.60641",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca del Paciente",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/97-biblioteca-del-paciente",
+            "telefono": {
+                "content": "985 181 080",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas",
+            "url": "http://www.gijon.es/directorios/show/97-biblioteca-del-paciente",
+            "web": "http://www.bibliotecaspublicas.es/redgijon/index.jsp"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacontrueces@gijon.es",
+            "descripcion": {
+                "content": "<p><strong>Biblioteca:<\/strong> Sala de lectura. Secci&#243;n adultos (18 puestos). Prensa y revistas (18 puestos). Secci&#243;n infantil y juvenil (18 puestos). Bebeteca. Secci&#243;n Asturiana. Centros de inter&#233;s: C&#243;mic. Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. Pr&#233;stamo interbibliotecario. Informaci&#243;n bibliogr&#225;fica y de referencia. Actividades de animaci&#243;n a la lectura: Beb&#233; cuentos, La hora de los cuentos, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares. Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. Consulta Red Municipal de Bibliotecas<\/p>\r\n<p><strong>Mediateca:<\/strong> 13 puestos. Acceso gratuito a internet y cursos de formaci&#243;n digital<\/p>\r\n<p>2 <strong>aulas<\/strong>polivalentes. Informaci&#243;n, asesoramiento y recursos para las asociaciones y colectivos del barrio. <\/p>\r\n<p><strong>Cajero ciudadano<\/strong><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/R&#237;o Nal&#243;n, 2 C.P. 33210",
+                {
+                    "content": "Centro Municipal de Contrueces - C/ R&#237;o Nal&#243;n, 2 - 33210 - C/R&#237;o Nal&#243;n, 2 C.P. 33210",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-03-09 10:52:16 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3118/250x188_v1_CM-contrueces.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 20.00 h. Julio y agosto de 9.00 a 15.00 h.",
+            "identificador": 93,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521944 -5.664088",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal de Contrueces",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/93-biblioteca-municipal-de-contrueces",
+            "telefono": {
+                "content": "985 185 114",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/93-biblioteca-municipal-de-contrueces",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Mediatecas",
+                    "id": 200,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "<a title=\"Ir a bibliotecallano@gijon.es \" href=\"http://bibliotecallano@gijon.es\">bibliotecallano@gijon.es<\/a>",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<br/>\r\n<ul>\r\n<li>Sala de estudio. Con capacidad para 120 personas \r\n<\/li><li>Sala de lectura \r\n<\/li><li>Secci&#243;n adultos \r\n<\/li><li>Secci&#243;n infantil y juvenil \r\n<\/li><li>Biblioteca para padres y madres \r\n<\/li><li>Secci&#243;n Asturiana \r\n<\/li><li>Centros de inter&#233;s: Oposiciones y empleo, Manualidades, Biblioteca de Padres, Letra Grande. Selectividad, Idiomas, Librodisco, Autoayuda\r\n<\/li><li>Prensa y revistas.&#160; \r\n<\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd<br/>\r\n<\/li><li>Pr&#233;stamo interbibliotecario \r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: Beb&#233;-cuentos, La hora de los cuentos, Expocuentos, Club de Lectura, Taller de Creaci&#243;n Literaria y Programa de Formaci&#243;n en el Uso de la Biblioteca para Escolares (cita previa concertada) \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias \r\n<\/li><li>Consulta Red Municipal de Bibliotecas \r\n<\/li><li>Mediateca (16 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "c/R&#237;o de Oro, 37 - 33209",
+                {
+                    "content": "Centro Municipal Integrado El Llano - c/R&#237;o de Oro, 37 - 33209",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-10-11 11:47:29 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/46634/3072x2304_v1_BiblioLlano.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a s&#225;bado de 9.00 a 20.00 h",
+            "identificador": 92,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527246 -5.663562",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca de El Llano",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/92-biblioteca-de-el-llano",
+            "telefono": {
+                "content": "985 185 248",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Mediatecas,Zona Wifi,Administraci&#243;n,Comunicaciones,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/92-biblioteca-de-el-llano",
+            "web": "http://bibliotecas.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacoto@gijon.es",
+            "descripcion": {
+                "content": "<p>Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<\/p>\r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. \r\n<\/li><li>Secci&#243;n infantil y juvenil. \r\n<\/li><li>Biblioteca para padres y madres. Secci&#243;n Asturiana. Secci&#243;n local. \r\n<\/li><li>Centros de inter&#233;s: Novela negra, Manualidades, Viajes, Cine, Deportes. \r\n<\/li><li>Prensa y revistas. Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. \r\n<\/li><li>Pr&#233;stamo interbibliotecario. \r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: La hora de los cuentos, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares. Cita previa concertada. \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. \r\n<\/li><li>Consulta Red Municipal de Bibliotecas. \r\n<\/li><li>Mediateca (10 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital. Biblioteca Cervantina.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza de la Rep&#250;blica, s/n. - 33204",
+                {
+                    "content": "Centro Municipal de El Coto - Plaza de la Rep&#250;blica, s/n. - 33204",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-10 11:07:32 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3115/250x188_v1_coto.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 20.00 h",
+            "identificador": 91,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.533438 -5.648874",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal de El Coto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/91-biblioteca-municipal-de-el-coto",
+            "telefono": {
+                "content": "985 181 733",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Administraci&#243;n,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/91-biblioteca-municipal-de-el-coto",
+            "web": "http://bibliotecas.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "<a title=\"Ir a bibliotecaarena@gijon.es \" href=\"http://bibliotecaarena@gijon.es\">bibliotecaarena@gijon.es<\/a>",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<br/><br/>\r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. \r\n<\/li><li>Secci&#243;n infantil y juvenil. \r\n<\/li><li>Secci&#243;n Asturiana. \r\n<\/li><li>Prensa y revistas. \r\n<\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. \r\n<\/li><li>Pr&#233;stamo interbibliotecario. \r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: La hora de los cuentos, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares. Cita previa concertada. \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. \r\n<\/li><li>Consulta Red Municipal de Bibliotecas. \r\n<\/li><li>Mediateca (16 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital.<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Canga Arg&#252;elles, 16- 18 (Parque de la F&#225;brica del Gas) - 33202",
+                {
+                    "content": "Centro Municipal Integrado de L'Arena - C/Canga Arg&#252;elles, 16- 18 (Parque de la F&#225;brica del Gas) - 33202",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-24 10:51:38 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3109/250x188_v1_arena.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 20.00 h",
+            "identificador": 90,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539088 -5.650355",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal de L'Arena",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/90-biblioteca-municipal-de-l-arena",
+            "telefono": {
+                "content": "985 181 624",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/90-biblioteca-municipal-de-l-arena",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecagijonsur@gijon.es",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Ram&#243;n Areces, 7 C.P. 33211",
+                {
+                    "content": "Centro Municipal Integrado Pumar&#237;n \"Gij&#243;n Sur\" - C/ Ram&#243;n areces n&#186;7 - C/Ram&#243;n Areces, 7 C.P. 33211",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-10 10:32:10 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3113/250x333_v1_gijonsur.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a s&#225;bado de 9.00 a 20.00 h",
+            "identificador": 89,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Biblioteca Municipal Pumar&#237;n Gij&#243;n - Sur",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/89-biblioteca-municipal-pumarin-gijon-sur",
+            "telefono": {
+                "content": "985 181 661",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/89-biblioteca-municipal-pumarin-gijon-sur",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecanatahoyo@gijon.es",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<br/><br/>\r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. \r\n<\/li><li>Secci&#243;n infantil y juvenil. Bebeteca. \r\n<\/li><li>Centros de inter&#233;s: Novela tem&#225;tica e Inform&#225;tica. \r\n<\/li><li>Prensa y revistas. \r\n<\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. \r\n<\/li><li>Pr&#233;stamo interbibliotecario. \r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: La hora de los cuentos y Programa de formaci&#243;n en el uso de la biblioteca para escolares (cita previa concertada). \r\n<\/li><li>Atenci&#243;n social. \r\n<\/li><li>Servicios Sociales. \r\n<\/li><li>Informaci&#243;n y asesoramiento sobre temas generales de inter&#233;s para la comunidad. \r\n<\/li><li>2 aulas polivalentes. \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. \r\n<\/li><li>Consulta Red Municipal de Bibliotecas . \r\n<\/li><li>Mediateca (12 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital.<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ La Estrella, s/n. - 33212",
+                {
+                    "content": "Biblioteca Muncipal de El Natahoyo - C/ La Estrella, s/n. - 33212",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-10 12:54:30 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3106/250x188_v1_natahoyo.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 9.00 a 20.00 h. Julio y agosto de 9.00 a 15.00 h",
+            "identificador": 87,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54041 -5.688464",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal de El Natahoyo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/87-biblioteca-municipal-de-el-natahoyo",
+            "telefono": {
+                "content": "984 49 19 46",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/87-biblioteca-municipal-de-el-natahoyo",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecajovellanos@asturias.org",
+            "descripcion": {
+                "content": "Instalada desde 1991 en el\r\nedificio rehabilitado del antiguo Banco de Espa&#241;a en Gij&#243;n. Dispone de una\r\ncolecci&#243;n de 200.000 documentos (80.000 de ellos en libre acceso) para su\r\nconsulta o pr&#233;stamo en todo tipo de soportes, una sala con prensa diaria y una\r\namplia selecci&#243;n de revistas de actualidad y acceso wifi en todo el edificio.\r\nEntre su fondo patrimonial cuenta con una importante colecci&#243;n de obras\r\nanteriores a 1900 y conserva una gran parte de la biblioteca del Ateneo\r\nObrero de Gij&#243;n. Alberga tambi&#233;n la Biblioteca Asturiana del Padre Patac,\r\ndeclarada Bien de Inter&#233;s Cultural en 2012",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Jovellanos, 23 - 33206",
+                {
+                    "content": "C/Jovellanos, 23 - 33206",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 352 703",
+            "fecha-actualizacion": "2013-06-11 09:21:32 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3104/250x333_v1_P.jovellanos.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes: de 9.00 a\r\n21.00 h.<br/>S&#225;bados: de 10.00 a 14.00 h. y de 16.00 a 20.00 h<br/>Domingos y\r\nfestivos: de 10:00 a 14:00 h<br/>D&#237;as en los que la Biblioteca permanece\r\ncerrada: 1 de enero y 25 de diciembre",
+            "identificador": 85,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.541441 -5.662693",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca P&#250;blica Jovellanos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/85-biblioteca-publica-jovellanos",
+            "telefono": {
+                "content": "985 359 923 - 985 343 266",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Sala de Exposiciones,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/85-biblioteca-publica-jovellanos",
+            "web": "http://www.bibliotecaspublicas.es/gijon/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecamontiana@gijon.es",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como:<br/>&#160;<br/>\r\n<ul>\r\n<li>Sala de lectura. \r\n<\/li><li>Secci&#243;n adultos. \r\n<\/li><li>Secci&#243;n infantil y juvenil. \r\n<\/li><li>Secci&#243;n Asturiana. \r\n<\/li><li>Centros de inter&#233;s: Novela por temas y Manualidades. \r\n<\/li><li>Prensa y revistas. \r\n<\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. \r\n<\/li><li>Pr&#233;stamo interbibliotecario. \r\n<\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. \r\n<\/li><li>Actividades de animaci&#243;n a la lectura: La hora de los cuentos, Club de lectura en voz alta y Programa de formaci&#243;n en el uso de la biblioteca para escolares. Cita previa concertada. \r\n<\/li><li>Informaci&#243;n y asesoramiento sobre temas generales de inter&#233;s para la comunidad. \r\n<\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. \r\n<\/li><li>Consulta Red Municipal de Bibliotecas. \r\n<\/li><li>Mediateca (6 puestos): acceso gratuito a Internet y cursos de formaci&#243;n digital.<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Monteana, s/n C.P. 33691",
+                {
+                    "content": "Biblioteca Municipal Monteana - Montiana, s/n. - 33691 - Monteana, s/n C.P. 33691",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2012-01-24 12:59:02 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3070/250x141_v1_montiana.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 16.30 a 20.00 h. Julio y Agosto: de 10.00 a 13.30 h",
+            "identificador": 83,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.52119 -5.747065",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca Municipal Montiana",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/83-biblioteca-municipal-montiana",
+            "telefono": {
+                "content": "985 300 030",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/83-biblioteca-municipal-montiana",
+            "web": "http://bibliotecas.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 164,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "bibliotecacalzada@gijon.es",
+            "descripcion": {
+                "content": "Ofrece diversos servicios y dispone de diferentes equipamientos tales como: <br/><ul><li>Sala de lectura. <\/li><li>Secci&#243;n adultos. <\/li><li>Secci&#243;n infantil y juvenil. <\/li><li>Biblioteca para padres y madres. <\/li><li>Bebeteca. <\/li><li>Secci&#243;n Asturiana. <\/li><li>Centros de inter&#233;s: F&#225;cil de leer, Divulgaci&#243;n cient&#237;fica, Oposiciones y empleo, C&#243;mic, Viajes, Idiomas. <\/li><li>Prensa y revistas. <\/li><li>Pr&#233;stamo de libros, discos, revistas, cd-rom, v&#237;deo y dvd. <\/li><li>Pr&#233;stamo interbibliotecario. <\/li><li>Informaci&#243;n bibliogr&#225;fica y de referencia. <\/li><li>Actividades de animaci&#243;n a la lectura: Beb&#233; cuentos, La hora de los cuentos, Club de lectura juvenil, Club de lectura, Programa de formaci&#243;n en el uso de la biblioteca para escolares (cita previa concertada). <\/li><li>Consulta Cat&#225;logo Colectivo de la Red de Bibliotecas del Principado de Asturias. <\/li><li>Consulta Red Municipal de Bibliotecas . <\/li><li>Mediateca (14 puestos): Acceso gratuito a Internet y cursos de formaci&#243;n digital.<\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Ateneo Obrero de La Calzada, 1 CP 33202",
+                {
+                    "content": "C/Ateneo Obrero de La Calzada, 1 - C/ Ateneo Obrero de La Calzada, 1 CP 33202",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 301 198",
+            "fecha-actualizacion": "2012-01-10 10:22:51 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f3/3069/250x333_v1_ateneo.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a s&#225;bado de 9.00 a 20.00 h",
+            "identificador": 82,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539236 -5.694708",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Biblioteca de La Calzada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/82-biblioteca-de-la-calzada",
+            "telefono": {
+                "content": "985 181 411",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bibliotecas,Servicios Municipales,Administraci&#243;n,Cultura y Ocio",
+            "url": "http://www.gijon.es/directorios/show/82-biblioteca-de-la-calzada",
+            "web": "http://bibliotecas.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Edificios Municipales",
+                    "id": 93,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cajeros Ciudadanos",
+                    "id": 94,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicio Atenci&#243;n al Ciudadano",
+                    "id": 97,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Sociales",
+                    "id": 99,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Bibliotecas",
+                    "id": 186,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Teatro",
+                    "id": 190,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sala de Exposiciones",
+                    "id": 201,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Complejos Deportivos",
+                    "id": 396,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pabellones",
+                    "id": 398,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Piscinas Municipales",
+                    "id": 399,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Pistas Polideportivas",
+                    "id": 400,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios municipales",
+                    "id": 927,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros culturales",
+                    "id": 932,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ludotecas",
+                    "id": 390,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administraci&#243;n",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Deporte",
+                    "id": 192,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "cmigijonsur@gijon.es",
+            "descripcion": {
+                "content": "<p style=\"text-align: justify;\">El nacimiento de este centro integrado supuso dotar a la zona&#160;Sur de un conjunto de equipamientos que demandaba por su gran crecimiento urban&#237;stico y rejuvenecimiento demogr&#225;fico. Su arquitectura&#160;demuestra a las claras la noci&#243;n de integraci&#243;n, pues comparte, en el mismo edificio, usos administrativos, deportivos (con pabell&#243;n y piscina)&#160;y socioculturales, en un gran complejo c&#237;vico que es ya una referencia para el barrio y, en algunos servicios, para toda la ciudad. Nuevamente la idea de coordinar y acercar a cualquier residencia todos los servicios descentralizados por el ayuntamiento, visibles en una destacada arquitectura<\/p><p style=\"text-align: justify;\">Dispone de: oficina de atenci&#243;n al ciudadano, concejal&#237;a de distrito,&#160;Servicios Sociales, biblioteca, Mediateca (12 puestos),&#160;sala de estudio (60&#160;puestos), sal&#243;n de actos, aulas, salas polivalentes, sala de exposiciones,&#160;pabell&#243;n deportivo, piscina, sauna, gimnasio, canchas de squash y cajero ciudadano<\/p><p style=\"text-align: justify;\"><img src=\"/data/images/f0/f4/42494/640x407_v1_GijonSurteatro.JPG\" alt=\"suteatro\" class=\"nicedit_sin-alinear magnify\" width=\"640\" height=\"407\" width=\"640\" height=\"407\"/><br/><\/p><p style=\"text-align: justify;\"><br/><\/p><h3><li><\/li><\/h3><h3><a href=\"http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" title=\"Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad\" rel=\"external\">Espacios del Centro Municipal Integrado Gij&#243;n-Sur (ver espacios).<\/a><br/><\/h3><div style=\"text-align: center;\"><br/><\/div><table><thead><tr><th style=\"text-align: center;\">Espacio<br/><\/th><th style=\"text-align: center;\">Puestos y aforo<br/><\/th><\/tr><\/thead><tbody><tr><td>Sal&#243;n de actos<br/><\/td><td style=\"text-align: right;\">350<\/td><\/tr><tr><td>Aulas 1 a 5<br/><\/td><td style=\"text-align: right;\">20<\/td><\/tr><tr><td>Aula 6/7<br/><\/td><td style=\"text-align: right;\">70<br/><\/td><\/tr><tr><td>Sala de estudio<br/><\/td><td style=\"text-align: right;\">60<br/><\/td><\/tr><tr><td>Biblioteca<br/><\/td><td style=\"text-align: right;\">Adultos: 25<br/>Infantil: 25<br/>Lectura de prensa: 32<br/><\/td><\/tr><tr><td>Mediateca<br/><\/td><td style=\"text-align: right;\">12<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sala de exposiciones<br/><\/td><td style=\"vertical-align: top; text-align: right;\">180 m2<br/><\/td><\/tr><tr><td>Piscina<br/><\/td><td style=\"text-align: right;\">Vaso grande: 104 usuarios m&#225;ximo.<br/>Vaso peque&#241;o: 25 usuarios m&#225;ximo.<br/>No hay grader&#237;o.<br/><\/td><\/tr><tr><td>Polideportivo<br/><\/td><td style=\"text-align: right;\">Grada: 300.<br/>Pista: en caso de eventos en pista hasta 700.<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Gimnasio<br/><\/td><td style=\"vertical-align: top; text-align: right;\">26<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Sauna<br/><\/td><td style=\"vertical-align: top; text-align: right;\">4<br/><\/td><\/tr><tr><td style=\"vertical-align: top;\">Canchas de Squash<br/><\/td><td style=\"vertical-align: top; text-align: right;\">4 (2 pistas)<br/><\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Ram&#243;n Areces, 7.",
+                {
+                    "content": "C/ Ram&#243;n areces n&#186;7 - C/ Ram&#243;n Areces, 7.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "<strong><\/strong>+ 34 985 181 639",
+            "fecha-actualizacion": "2013-09-25 14:16:00 +0200",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f2/2545/250x188_v1_CMI-gijonsur.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "De 8:00 a 22:00 de lunes a s&#225;bado. Domingo de 8:00 a 15:00.",
+            "identificador": 10,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.524769 -5.678161",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Municipal Integrado Pumar&#237;n \"Gij&#243;n Sur\"",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10-centro-municipal-integrado-pumarin-gijon-sur",
+            "telefono": {
+                "content": "+ 34 985 181 640",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Edificios Municipales,Cajeros Ciudadanos,Servicio Atenci&#243;n al Ciudadano,Servicios Municipales,Servicios Sociales,Bibliotecas,Teatro,Sala de Exposiciones,Complejos Deportivos,Pabellones,Piscinas Municipales,Pistas Polideportivas,Servicios municipales,Centros culturales,Ludotecas,Zona Wifi,Administraci&#243;n,Comunicaciones,Cultura y Ocio,Deporte,Turismo",
+            "url": "http://www.gijon.es/directorios/show/10-centro-municipal-integrado-pumarin-gijon-sur",
+            "web": "http://www.gijon.es"
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
